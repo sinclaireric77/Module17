@@ -13,12 +13,14 @@ The notebook can be found at:
 
 https://github.com/sinclaireric77/Module17/tree/main/Notebook/Practical Application #3.ipynb
 
-1st part – Business understanding
+#### 1st part – Business understanding
 Are there qualitative or quantitative parameters that affect a person contacted by a marketing campaign to open an account with the bank?
 We will look at the database a Portuguese bank with multiple marketing campaigns and try to find relationships between the customer opening a bank account and various other features. We will also look at patterns in the data to try to create a model that can predict opening the account based on those features.
-2nd part – Data understanding
+
+#### 2nd part – Data understanding
 The second part consists of understanding how the data is structured so we can work on target features and clean the data that is necessary for our analysis. Here, success will be our target (‘y’) and the rest of the features will be data we will apply different models on.
-3rd part – Data Preparation
+
+#### 3rd part – Data Preparation
 -	Converted 4 columns yes/no to 1/0 and then to numeric (default, housing, loan, y)
 -	Unknowns appear in 3 columns.
 o	Default seems to have only 3 “y” values and 8597 unknowns.
