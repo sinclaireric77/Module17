@@ -8,7 +8,7 @@ This is a short summary of the work involved in this project. There are 5 parts 
 - Modeling
 - Conclusion
 
-There are a total of 5 files in this repository (1 readme.md; 1 jupyter notebook – Practical Application #3.ipynb in the notebook folder and 3 images in the images folder)
+There are a total of 5 files in this repository (1 readme.md; 1 jupyter notebook – Practical_Application_3.ipynb in the notebook folder and 3 images in the images folder)
 The notebook can be found at: 
 
 https://github.com/sinclaireric77/Module17/tree/main/Notebook/Practical_Application_3.ipynb
