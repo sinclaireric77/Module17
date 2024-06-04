@@ -2,11 +2,11 @@
 
 This is a short summary of the work involved in this project. There are 5 parts to the Jupyter Notebook.
 
-•	Business understanding
-•	Data understanding
-•	Data preparation
-•	Modeling
-•	Conclusion
+- Business understanding
+- Data understanding
+- Data preparation
+- Modeling
+- Conclusion
 
 There are a total of 5 files in this repository (1 readme.md; 1 jupyter notebook – Practical Application #3.ipynb in the Notebook folder and 3 images in the images folder)
 The notebook can be found at: 
